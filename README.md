@@ -27,7 +27,7 @@ We've included a few helper functions to handle some of these concepts and we're
 import {filterImageFromURL, deleteLocalFiles} from './util/util';
 ```
 ### EB Endpoint
-http://localhost:8082/filteredimage?image_url=https://thuvienanime.com/wp-content/uploads/2021/09/tieu-viem.jpeg
+http://udacity-2044185-dev2.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://thuvienanime.com/wp-content/uploads/2021/09/tieu-viem.jpeg
 
 ### Deploying your system
 
